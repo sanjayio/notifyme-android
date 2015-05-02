@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Notifyme.iml" filepath="$PROJECT_DIR$/Notifyme.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifyme-android.iml" filepath="$PROJECT_DIR$/notifyme-android.iml" />
     </modules>
   </component>
 </project>
